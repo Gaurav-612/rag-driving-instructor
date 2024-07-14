@@ -2,7 +2,7 @@
 
 ## Overview
 
-RAG-Based Driving Instructor is an innovative application that leverages Retrieval Augmented Generation (RAG) to provide instant, accurate answers to questions about driving in Ontario. Powered by NVIDIA NIM (NVIDIA Inference Microservices), this app serves as a virtual driving instructor, offering reliable information sourced directly from the Ontario Driver's Handbook.
+Leveraging Retrieval Augmented Generation (RAG) to provide instant, accurate answers to questions about driving in Ontario. Powered by NVIDIA NIM (NVIDIA Inference Microservices), this app serves as a virtual driving instructor, offering reliable information sourced directly from the Ontario Driver's Handbook.
 
 ## Features
 
@@ -19,7 +19,7 @@ RAG-Based Driving Instructor is an innovative application that leverages Retriev
 
 ## Getting Started
 
-To use the RAG-Based Driving Instructor, simply visit our web application:
+To use the RAG-Based Driving Instructor, simply visit the web application:
 
 [RAG-Based Driving Instructor App](https://rag-driving-instructor.streamlit.app/)
 
@@ -27,7 +27,7 @@ Note: You'll need an NVIDIA API key to use the application. If you don't have on
 
 ## Local Development
 
-If you want to run the app locally or contribute to its development:
+To run the app locally:
 
 1. Clone this repository: `git clone https://github.com/Gaurav-612/rag-driving-instructor.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
